@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pre"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pre">
+				<Option output="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/pre" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 pre"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pre/fast">
+				<Option output="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/pre" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 pre/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/01-一维数组的定义.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/02-数组名.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/03 五只小猪称体重.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/04 数组元素逆置.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/05 冒泡排序法.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/06 二维数组定义方式.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/07 二维数组数组名.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/05 数组/08 二维数组应用案例.cpp">
+			<Option target="pre"/>
+		</Unit>
+		<Unit filename="/Users/luxiaogen/workspace/code/C++/pre/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

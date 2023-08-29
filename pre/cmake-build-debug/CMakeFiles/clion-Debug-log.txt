@@ -1,0 +1,4 @@
+"/Users/luxiaogen/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/opt/homebrew/Cellar/gcc/12.2.0/bin/gcc-12 -DCMAKE_CXX_COMPILER=/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 -G "CodeBlocks - Unix Makefiles" -S /Users/luxiaogen/workspace/code/C++/pre -B /Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug
