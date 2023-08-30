@@ -129,197 +129,77 @@ pre/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/build
 .PHONY : pre/fast
 
-05_数组/01-一维数组的定义.o: 05_数组/01-一维数组的定义.cpp.o
-.PHONY : 05_数组/01-一维数组的定义.o
+06_函数/01_函数的定义.o: 06_函数/01_函数的定义.cpp.o
+.PHONY : 06_函数/01_函数的定义.o
 
 # target to build an object file
-05_数组/01-一维数组的定义.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/01-一维数组的定义.cpp.o
-.PHONY : 05_数组/01-一维数组的定义.cpp.o
+06_函数/01_函数的定义.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.o
+.PHONY : 06_函数/01_函数的定义.cpp.o
 
-05_数组/01-一维数组的定义.i: 05_数组/01-一维数组的定义.cpp.i
-.PHONY : 05_数组/01-一维数组的定义.i
+06_函数/01_函数的定义.i: 06_函数/01_函数的定义.cpp.i
+.PHONY : 06_函数/01_函数的定义.i
 
 # target to preprocess a source file
-05_数组/01-一维数组的定义.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/01-一维数组的定义.cpp.i
-.PHONY : 05_数组/01-一维数组的定义.cpp.i
+06_函数/01_函数的定义.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.i
+.PHONY : 06_函数/01_函数的定义.cpp.i
 
-05_数组/01-一维数组的定义.s: 05_数组/01-一维数组的定义.cpp.s
-.PHONY : 05_数组/01-一维数组的定义.s
+06_函数/01_函数的定义.s: 06_函数/01_函数的定义.cpp.s
+.PHONY : 06_函数/01_函数的定义.s
 
 # target to generate assembly for a file
-05_数组/01-一维数组的定义.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/01-一维数组的定义.cpp.s
-.PHONY : 05_数组/01-一维数组的定义.cpp.s
+06_函数/01_函数的定义.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.s
+.PHONY : 06_函数/01_函数的定义.cpp.s
 
-05_数组/02-数组名.o: 05_数组/02-数组名.cpp.o
-.PHONY : 05_数组/02-数组名.o
+06_函数/07_函数的分文件编写.o: 06_函数/07_函数的分文件编写.cpp.o
+.PHONY : 06_函数/07_函数的分文件编写.o
 
 # target to build an object file
-05_数组/02-数组名.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/02-数组名.cpp.o
-.PHONY : 05_数组/02-数组名.cpp.o
+06_函数/07_函数的分文件编写.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.o
+.PHONY : 06_函数/07_函数的分文件编写.cpp.o
 
-05_数组/02-数组名.i: 05_数组/02-数组名.cpp.i
-.PHONY : 05_数组/02-数组名.i
+06_函数/07_函数的分文件编写.i: 06_函数/07_函数的分文件编写.cpp.i
+.PHONY : 06_函数/07_函数的分文件编写.i
 
 # target to preprocess a source file
-05_数组/02-数组名.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/02-数组名.cpp.i
-.PHONY : 05_数组/02-数组名.cpp.i
+06_函数/07_函数的分文件编写.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.i
+.PHONY : 06_函数/07_函数的分文件编写.cpp.i
 
-05_数组/02-数组名.s: 05_数组/02-数组名.cpp.s
-.PHONY : 05_数组/02-数组名.s
+06_函数/07_函数的分文件编写.s: 06_函数/07_函数的分文件编写.cpp.s
+.PHONY : 06_函数/07_函数的分文件编写.s
 
 # target to generate assembly for a file
-05_数组/02-数组名.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/02-数组名.cpp.s
-.PHONY : 05_数组/02-数组名.cpp.s
+06_函数/07_函数的分文件编写.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.s
+.PHONY : 06_函数/07_函数的分文件编写.cpp.s
 
-05_数组/03_五只小猪称体重.o: 05_数组/03_五只小猪称体重.cpp.o
-.PHONY : 05_数组/03_五只小猪称体重.o
+06_函数/swap.o: 06_函数/swap.cpp.o
+.PHONY : 06_函数/swap.o
 
 # target to build an object file
-05_数组/03_五只小猪称体重.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/03_五只小猪称体重.cpp.o
-.PHONY : 05_数组/03_五只小猪称体重.cpp.o
+06_函数/swap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.o
+.PHONY : 06_函数/swap.cpp.o
 
-05_数组/03_五只小猪称体重.i: 05_数组/03_五只小猪称体重.cpp.i
-.PHONY : 05_数组/03_五只小猪称体重.i
-
-# target to preprocess a source file
-05_数组/03_五只小猪称体重.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/03_五只小猪称体重.cpp.i
-.PHONY : 05_数组/03_五只小猪称体重.cpp.i
-
-05_数组/03_五只小猪称体重.s: 05_数组/03_五只小猪称体重.cpp.s
-.PHONY : 05_数组/03_五只小猪称体重.s
-
-# target to generate assembly for a file
-05_数组/03_五只小猪称体重.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/03_五只小猪称体重.cpp.s
-.PHONY : 05_数组/03_五只小猪称体重.cpp.s
-
-05_数组/04_数组元素逆置.o: 05_数组/04_数组元素逆置.cpp.o
-.PHONY : 05_数组/04_数组元素逆置.o
-
-# target to build an object file
-05_数组/04_数组元素逆置.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/04_数组元素逆置.cpp.o
-.PHONY : 05_数组/04_数组元素逆置.cpp.o
-
-05_数组/04_数组元素逆置.i: 05_数组/04_数组元素逆置.cpp.i
-.PHONY : 05_数组/04_数组元素逆置.i
+06_函数/swap.i: 06_函数/swap.cpp.i
+.PHONY : 06_函数/swap.i
 
 # target to preprocess a source file
-05_数组/04_数组元素逆置.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/04_数组元素逆置.cpp.i
-.PHONY : 05_数组/04_数组元素逆置.cpp.i
+06_函数/swap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.i
+.PHONY : 06_函数/swap.cpp.i
 
-05_数组/04_数组元素逆置.s: 05_数组/04_数组元素逆置.cpp.s
-.PHONY : 05_数组/04_数组元素逆置.s
-
-# target to generate assembly for a file
-05_数组/04_数组元素逆置.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/04_数组元素逆置.cpp.s
-.PHONY : 05_数组/04_数组元素逆置.cpp.s
-
-05_数组/05_冒泡排序法.o: 05_数组/05_冒泡排序法.cpp.o
-.PHONY : 05_数组/05_冒泡排序法.o
-
-# target to build an object file
-05_数组/05_冒泡排序法.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/05_冒泡排序法.cpp.o
-.PHONY : 05_数组/05_冒泡排序法.cpp.o
-
-05_数组/05_冒泡排序法.i: 05_数组/05_冒泡排序法.cpp.i
-.PHONY : 05_数组/05_冒泡排序法.i
-
-# target to preprocess a source file
-05_数组/05_冒泡排序法.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/05_冒泡排序法.cpp.i
-.PHONY : 05_数组/05_冒泡排序法.cpp.i
-
-05_数组/05_冒泡排序法.s: 05_数组/05_冒泡排序法.cpp.s
-.PHONY : 05_数组/05_冒泡排序法.s
+06_函数/swap.s: 06_函数/swap.cpp.s
+.PHONY : 06_函数/swap.s
 
 # target to generate assembly for a file
-05_数组/05_冒泡排序法.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/05_冒泡排序法.cpp.s
-.PHONY : 05_数组/05_冒泡排序法.cpp.s
-
-05_数组/06_二维数组定义方式.o: 05_数组/06_二维数组定义方式.cpp.o
-.PHONY : 05_数组/06_二维数组定义方式.o
-
-# target to build an object file
-05_数组/06_二维数组定义方式.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/06_二维数组定义方式.cpp.o
-.PHONY : 05_数组/06_二维数组定义方式.cpp.o
-
-05_数组/06_二维数组定义方式.i: 05_数组/06_二维数组定义方式.cpp.i
-.PHONY : 05_数组/06_二维数组定义方式.i
-
-# target to preprocess a source file
-05_数组/06_二维数组定义方式.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/06_二维数组定义方式.cpp.i
-.PHONY : 05_数组/06_二维数组定义方式.cpp.i
-
-05_数组/06_二维数组定义方式.s: 05_数组/06_二维数组定义方式.cpp.s
-.PHONY : 05_数组/06_二维数组定义方式.s
-
-# target to generate assembly for a file
-05_数组/06_二维数组定义方式.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/06_二维数组定义方式.cpp.s
-.PHONY : 05_数组/06_二维数组定义方式.cpp.s
-
-05_数组/07_二维数组数组名.o: 05_数组/07_二维数组数组名.cpp.o
-.PHONY : 05_数组/07_二维数组数组名.o
-
-# target to build an object file
-05_数组/07_二维数组数组名.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/07_二维数组数组名.cpp.o
-.PHONY : 05_数组/07_二维数组数组名.cpp.o
-
-05_数组/07_二维数组数组名.i: 05_数组/07_二维数组数组名.cpp.i
-.PHONY : 05_数组/07_二维数组数组名.i
-
-# target to preprocess a source file
-05_数组/07_二维数组数组名.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/07_二维数组数组名.cpp.i
-.PHONY : 05_数组/07_二维数组数组名.cpp.i
-
-05_数组/07_二维数组数组名.s: 05_数组/07_二维数组数组名.cpp.s
-.PHONY : 05_数组/07_二维数组数组名.s
-
-# target to generate assembly for a file
-05_数组/07_二维数组数组名.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/07_二维数组数组名.cpp.s
-.PHONY : 05_数组/07_二维数组数组名.cpp.s
-
-05_数组/08_二维数组应用案例.o: 05_数组/08_二维数组应用案例.cpp.o
-.PHONY : 05_数组/08_二维数组应用案例.o
-
-# target to build an object file
-05_数组/08_二维数组应用案例.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/08_二维数组应用案例.cpp.o
-.PHONY : 05_数组/08_二维数组应用案例.cpp.o
-
-05_数组/08_二维数组应用案例.i: 05_数组/08_二维数组应用案例.cpp.i
-.PHONY : 05_数组/08_二维数组应用案例.i
-
-# target to preprocess a source file
-05_数组/08_二维数组应用案例.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/08_二维数组应用案例.cpp.i
-.PHONY : 05_数组/08_二维数组应用案例.cpp.i
-
-05_数组/08_二维数组应用案例.s: 05_数组/08_二维数组应用案例.cpp.s
-.PHONY : 05_数组/08_二维数组应用案例.s
-
-# target to generate assembly for a file
-05_数组/08_二维数组应用案例.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/05_数组/08_二维数组应用案例.cpp.s
-.PHONY : 05_数组/08_二维数组应用案例.cpp.s
+06_函数/swap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.s
+.PHONY : 06_函数/swap.cpp.s
 
 # Help Target
 help:
@@ -330,30 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... pre"
-	@echo "... 05_数组/01-一维数组的定义.o"
-	@echo "... 05_数组/01-一维数组的定义.i"
-	@echo "... 05_数组/01-一维数组的定义.s"
-	@echo "... 05_数组/02-数组名.o"
-	@echo "... 05_数组/02-数组名.i"
-	@echo "... 05_数组/02-数组名.s"
-	@echo "... 05_数组/03_五只小猪称体重.o"
-	@echo "... 05_数组/03_五只小猪称体重.i"
-	@echo "... 05_数组/03_五只小猪称体重.s"
-	@echo "... 05_数组/04_数组元素逆置.o"
-	@echo "... 05_数组/04_数组元素逆置.i"
-	@echo "... 05_数组/04_数组元素逆置.s"
-	@echo "... 05_数组/05_冒泡排序法.o"
-	@echo "... 05_数组/05_冒泡排序法.i"
-	@echo "... 05_数组/05_冒泡排序法.s"
-	@echo "... 05_数组/06_二维数组定义方式.o"
-	@echo "... 05_数组/06_二维数组定义方式.i"
-	@echo "... 05_数组/06_二维数组定义方式.s"
-	@echo "... 05_数组/07_二维数组数组名.o"
-	@echo "... 05_数组/07_二维数组数组名.i"
-	@echo "... 05_数组/07_二维数组数组名.s"
-	@echo "... 05_数组/08_二维数组应用案例.o"
-	@echo "... 05_数组/08_二维数组应用案例.i"
-	@echo "... 05_数组/08_二维数组应用案例.s"
+	@echo "... 06_函数/01_函数的定义.o"
+	@echo "... 06_函数/01_函数的定义.i"
+	@echo "... 06_函数/01_函数的定义.s"
+	@echo "... 06_函数/07_函数的分文件编写.o"
+	@echo "... 06_函数/07_函数的分文件编写.i"
+	@echo "... 06_函数/07_函数的分文件编写.s"
+	@echo "... 06_函数/swap.o"
+	@echo "... 06_函数/swap.i"
+	@echo "... 06_函数/swap.s"
 .PHONY : help
 
 
