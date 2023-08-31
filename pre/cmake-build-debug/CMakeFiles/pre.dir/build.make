@@ -69,143 +69,111 @@ include CMakeFiles/pre.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/pre.dir/flags.make
 
-CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/01\ 指针的定义和使用.cpp
-CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o -MF CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o.d -o CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/01 指针的定义和使用.cpp"
+CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/01\ 结构体的定义和使用.cpp
+CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o -MF CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o.d -o CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/01 结构体的定义和使用.cpp"
 
-CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/01 指针的定义和使用.cpp" > CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.i
+CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/01 结构体的定义和使用.cpp" > CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.i
 
-CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/01 指针的定义和使用.cpp" -o CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.s
+CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/01 结构体的定义和使用.cpp" -o CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.s
 
-CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/02\ 指针所占内存空间.cpp
-CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o -MF CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o.d -o CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/02 指针所占内存空间.cpp"
+CMakeFiles/pre.dir/02_结构体数组.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/02_结构体数组.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/02\ 结构体数组.cpp
+CMakeFiles/pre.dir/02_结构体数组.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pre.dir/02_结构体数组.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/02_结构体数组.cpp.o -MF CMakeFiles/pre.dir/02_结构体数组.cpp.o.d -o CMakeFiles/pre.dir/02_结构体数组.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/02 结构体数组.cpp"
 
-CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/02 指针所占内存空间.cpp" > CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.i
+CMakeFiles/pre.dir/02_结构体数组.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/02_结构体数组.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/02 结构体数组.cpp" > CMakeFiles/pre.dir/02_结构体数组.cpp.i
 
-CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/02 指针所占内存空间.cpp" -o CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.s
+CMakeFiles/pre.dir/02_结构体数组.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/02_结构体数组.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/02 结构体数组.cpp" -o CMakeFiles/pre.dir/02_结构体数组.cpp.s
 
-CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/03\ 空指针和野指针.cpp
-CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o -MF CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o.d -o CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/03 空指针和野指针.cpp"
+CMakeFiles/pre.dir/03_结构体指针.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/03_结构体指针.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/03\ 结构体指针.cpp
+CMakeFiles/pre.dir/03_结构体指针.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/pre.dir/03_结构体指针.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/03_结构体指针.cpp.o -MF CMakeFiles/pre.dir/03_结构体指针.cpp.o.d -o CMakeFiles/pre.dir/03_结构体指针.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/03 结构体指针.cpp"
 
-CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/03 空指针和野指针.cpp" > CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.i
+CMakeFiles/pre.dir/03_结构体指针.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/03_结构体指针.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/03 结构体指针.cpp" > CMakeFiles/pre.dir/03_结构体指针.cpp.i
 
-CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/03 空指针和野指针.cpp" -o CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.s
+CMakeFiles/pre.dir/03_结构体指针.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/03_结构体指针.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/03 结构体指针.cpp" -o CMakeFiles/pre.dir/03_结构体指针.cpp.s
 
-CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/04\ const修饰指针.cpp
-CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o -MF CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o.d -o CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/04 const修饰指针.cpp"
+CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/06\ 结构体中const的使用场景.cpp
+CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o -MF CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o.d -o CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/06 结构体中const的使用场景.cpp"
 
-CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/04 const修饰指针.cpp" > CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.i
+CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/06 结构体中const的使用场景.cpp" > CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.i
 
-CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/04 const修饰指针.cpp" -o CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.s
+CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/06 结构体中const的使用场景.cpp" -o CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.s
 
-CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/05\ 指针和数组.cpp
-CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o -MF CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o.d -o CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/05 指针和数组.cpp"
+CMakeFiles/pre.dir/07_结构体案例1.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/07_结构体案例1.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 结构体案例1.cpp
+CMakeFiles/pre.dir/07_结构体案例1.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pre.dir/07_结构体案例1.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_结构体案例1.cpp.o -MF CMakeFiles/pre.dir/07_结构体案例1.cpp.o.d -o CMakeFiles/pre.dir/07_结构体案例1.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 结构体案例1.cpp"
 
-CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/05 指针和数组.cpp" > CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.i
+CMakeFiles/pre.dir/07_结构体案例1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_结构体案例1.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 结构体案例1.cpp" > CMakeFiles/pre.dir/07_结构体案例1.cpp.i
 
-CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/05 指针和数组.cpp" -o CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.s
+CMakeFiles/pre.dir/07_结构体案例1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_结构体案例1.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 结构体案例1.cpp" -o CMakeFiles/pre.dir/07_结构体案例1.cpp.s
 
-CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/06\ 指针和函数.cpp
-CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o -MF CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o.d -o CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/06 指针和函数.cpp"
+CMakeFiles/pre.dir/08_结构体案例2.cpp.o: CMakeFiles/pre.dir/flags.make
+CMakeFiles/pre.dir/08_结构体案例2.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/08\ 结构体案例2.cpp
+CMakeFiles/pre.dir/08_结构体案例2.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pre.dir/08_结构体案例2.cpp.o"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/08_结构体案例2.cpp.o -MF CMakeFiles/pre.dir/08_结构体案例2.cpp.o.d -o CMakeFiles/pre.dir/08_结构体案例2.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/08 结构体案例2.cpp"
 
-CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/06 指针和函数.cpp" > CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.i
+CMakeFiles/pre.dir/08_结构体案例2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/08_结构体案例2.cpp.i"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/08 结构体案例2.cpp" > CMakeFiles/pre.dir/08_结构体案例2.cpp.i
 
-CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/06 指针和函数.cpp" -o CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.s
-
-CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/BubbleSort.cpp
-CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o -MF CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o.d -o CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/BubbleSort.cpp"
-
-CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/BubbleSort.cpp" > CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.i
-
-CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/BubbleSort.cpp" -o CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.s
-
-CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o: CMakeFiles/pre.dir/flags.make
-CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o: /Users/luxiaogen/workspace/code/C++/pre/07\ 指针/07\ 指针数组和函数案例.cpp
-CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o: CMakeFiles/pre.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o -MF CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o.d -o CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o -c "/Users/luxiaogen/workspace/code/C++/pre/07 指针/07 指针数组和函数案例.cpp"
-
-CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.i"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luxiaogen/workspace/code/C++/pre/07 指针/07 指针数组和函数案例.cpp" > CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.i
-
-CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.s"
-	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/07 指针/07 指针数组和函数案例.cpp" -o CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.s
+CMakeFiles/pre.dir/08_结构体案例2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pre.dir/08_结构体案例2.cpp.s"
+	/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luxiaogen/workspace/code/C++/pre/08 结构体案例2.cpp" -o CMakeFiles/pre.dir/08_结构体案例2.cpp.s
 
 # Object files for target pre
 pre_OBJECTS = \
-"CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o" \
-"CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o"
+"CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o" \
+"CMakeFiles/pre.dir/02_结构体数组.cpp.o" \
+"CMakeFiles/pre.dir/03_结构体指针.cpp.o" \
+"CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o" \
+"CMakeFiles/pre.dir/07_结构体案例1.cpp.o" \
+"CMakeFiles/pre.dir/08_结构体案例2.cpp.o"
 
 # External object files for target pre
 pre_EXTERNAL_OBJECTS =
 
-pre: CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o
-pre: CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o
+pre: CMakeFiles/pre.dir/01_结构体的定义和使用.cpp.o
+pre: CMakeFiles/pre.dir/02_结构体数组.cpp.o
+pre: CMakeFiles/pre.dir/03_结构体指针.cpp.o
+pre: CMakeFiles/pre.dir/06_结构体中const的使用场景.cpp.o
+pre: CMakeFiles/pre.dir/07_结构体案例1.cpp.o
+pre: CMakeFiles/pre.dir/08_结构体案例2.cpp.o
 pre: CMakeFiles/pre.dir/build.make
 pre: CMakeFiles/pre.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable pre"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable pre"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pre.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

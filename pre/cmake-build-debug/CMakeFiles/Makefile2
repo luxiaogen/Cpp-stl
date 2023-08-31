@@ -81,12 +81,12 @@ clean: CMakeFiles/pre.dir/clean
 CMakeFiles/pre.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9 "Built target pre"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target pre"
 .PHONY : CMakeFiles/pre.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pre.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles 9
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/pre.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luxiaogen/workspace/code/C++/pre/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/pre.dir/rule
