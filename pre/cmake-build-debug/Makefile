@@ -129,77 +129,197 @@ pre/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/build
 .PHONY : pre/fast
 
-06_函数/01_函数的定义.o: 06_函数/01_函数的定义.cpp.o
-.PHONY : 06_函数/01_函数的定义.o
+07_指针/01_指针的定义和使用.o: 07_指针/01_指针的定义和使用.cpp.o
+.PHONY : 07_指针/01_指针的定义和使用.o
 
 # target to build an object file
-06_函数/01_函数的定义.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.o
-.PHONY : 06_函数/01_函数的定义.cpp.o
+07_指针/01_指针的定义和使用.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.o
+.PHONY : 07_指针/01_指针的定义和使用.cpp.o
 
-06_函数/01_函数的定义.i: 06_函数/01_函数的定义.cpp.i
-.PHONY : 06_函数/01_函数的定义.i
+07_指针/01_指针的定义和使用.i: 07_指针/01_指针的定义和使用.cpp.i
+.PHONY : 07_指针/01_指针的定义和使用.i
 
 # target to preprocess a source file
-06_函数/01_函数的定义.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.i
-.PHONY : 06_函数/01_函数的定义.cpp.i
+07_指针/01_指针的定义和使用.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.i
+.PHONY : 07_指针/01_指针的定义和使用.cpp.i
 
-06_函数/01_函数的定义.s: 06_函数/01_函数的定义.cpp.s
-.PHONY : 06_函数/01_函数的定义.s
+07_指针/01_指针的定义和使用.s: 07_指针/01_指针的定义和使用.cpp.s
+.PHONY : 07_指针/01_指针的定义和使用.s
 
 # target to generate assembly for a file
-06_函数/01_函数的定义.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/01_函数的定义.cpp.s
-.PHONY : 06_函数/01_函数的定义.cpp.s
+07_指针/01_指针的定义和使用.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/01_指针的定义和使用.cpp.s
+.PHONY : 07_指针/01_指针的定义和使用.cpp.s
 
-06_函数/07_函数的分文件编写.o: 06_函数/07_函数的分文件编写.cpp.o
-.PHONY : 06_函数/07_函数的分文件编写.o
+07_指针/02_指针所占内存空间.o: 07_指针/02_指针所占内存空间.cpp.o
+.PHONY : 07_指针/02_指针所占内存空间.o
 
 # target to build an object file
-06_函数/07_函数的分文件编写.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.o
-.PHONY : 06_函数/07_函数的分文件编写.cpp.o
+07_指针/02_指针所占内存空间.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.o
+.PHONY : 07_指针/02_指针所占内存空间.cpp.o
 
-06_函数/07_函数的分文件编写.i: 06_函数/07_函数的分文件编写.cpp.i
-.PHONY : 06_函数/07_函数的分文件编写.i
+07_指针/02_指针所占内存空间.i: 07_指针/02_指针所占内存空间.cpp.i
+.PHONY : 07_指针/02_指针所占内存空间.i
 
 # target to preprocess a source file
-06_函数/07_函数的分文件编写.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.i
-.PHONY : 06_函数/07_函数的分文件编写.cpp.i
+07_指针/02_指针所占内存空间.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.i
+.PHONY : 07_指针/02_指针所占内存空间.cpp.i
 
-06_函数/07_函数的分文件编写.s: 06_函数/07_函数的分文件编写.cpp.s
-.PHONY : 06_函数/07_函数的分文件编写.s
+07_指针/02_指针所占内存空间.s: 07_指针/02_指针所占内存空间.cpp.s
+.PHONY : 07_指针/02_指针所占内存空间.s
 
 # target to generate assembly for a file
-06_函数/07_函数的分文件编写.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/07_函数的分文件编写.cpp.s
-.PHONY : 06_函数/07_函数的分文件编写.cpp.s
+07_指针/02_指针所占内存空间.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/02_指针所占内存空间.cpp.s
+.PHONY : 07_指针/02_指针所占内存空间.cpp.s
 
-06_函数/swap.o: 06_函数/swap.cpp.o
-.PHONY : 06_函数/swap.o
+07_指针/03_空指针和野指针.o: 07_指针/03_空指针和野指针.cpp.o
+.PHONY : 07_指针/03_空指针和野指针.o
 
 # target to build an object file
-06_函数/swap.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.o
-.PHONY : 06_函数/swap.cpp.o
+07_指针/03_空指针和野指针.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.o
+.PHONY : 07_指针/03_空指针和野指针.cpp.o
 
-06_函数/swap.i: 06_函数/swap.cpp.i
-.PHONY : 06_函数/swap.i
+07_指针/03_空指针和野指针.i: 07_指针/03_空指针和野指针.cpp.i
+.PHONY : 07_指针/03_空指针和野指针.i
 
 # target to preprocess a source file
-06_函数/swap.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.i
-.PHONY : 06_函数/swap.cpp.i
+07_指针/03_空指针和野指针.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.i
+.PHONY : 07_指针/03_空指针和野指针.cpp.i
 
-06_函数/swap.s: 06_函数/swap.cpp.s
-.PHONY : 06_函数/swap.s
+07_指针/03_空指针和野指针.s: 07_指针/03_空指针和野指针.cpp.s
+.PHONY : 07_指针/03_空指针和野指针.s
 
 # target to generate assembly for a file
-06_函数/swap.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/06_函数/swap.cpp.s
-.PHONY : 06_函数/swap.cpp.s
+07_指针/03_空指针和野指针.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/03_空指针和野指针.cpp.s
+.PHONY : 07_指针/03_空指针和野指针.cpp.s
+
+07_指针/04_const修饰指针.o: 07_指针/04_const修饰指针.cpp.o
+.PHONY : 07_指针/04_const修饰指针.o
+
+# target to build an object file
+07_指针/04_const修饰指针.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.o
+.PHONY : 07_指针/04_const修饰指针.cpp.o
+
+07_指针/04_const修饰指针.i: 07_指针/04_const修饰指针.cpp.i
+.PHONY : 07_指针/04_const修饰指针.i
+
+# target to preprocess a source file
+07_指针/04_const修饰指针.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.i
+.PHONY : 07_指针/04_const修饰指针.cpp.i
+
+07_指针/04_const修饰指针.s: 07_指针/04_const修饰指针.cpp.s
+.PHONY : 07_指针/04_const修饰指针.s
+
+# target to generate assembly for a file
+07_指针/04_const修饰指针.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/04_const修饰指针.cpp.s
+.PHONY : 07_指针/04_const修饰指针.cpp.s
+
+07_指针/05_指针和数组.o: 07_指针/05_指针和数组.cpp.o
+.PHONY : 07_指针/05_指针和数组.o
+
+# target to build an object file
+07_指针/05_指针和数组.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.o
+.PHONY : 07_指针/05_指针和数组.cpp.o
+
+07_指针/05_指针和数组.i: 07_指针/05_指针和数组.cpp.i
+.PHONY : 07_指针/05_指针和数组.i
+
+# target to preprocess a source file
+07_指针/05_指针和数组.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.i
+.PHONY : 07_指针/05_指针和数组.cpp.i
+
+07_指针/05_指针和数组.s: 07_指针/05_指针和数组.cpp.s
+.PHONY : 07_指针/05_指针和数组.s
+
+# target to generate assembly for a file
+07_指针/05_指针和数组.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/05_指针和数组.cpp.s
+.PHONY : 07_指针/05_指针和数组.cpp.s
+
+07_指针/06_指针和函数.o: 07_指针/06_指针和函数.cpp.o
+.PHONY : 07_指针/06_指针和函数.o
+
+# target to build an object file
+07_指针/06_指针和函数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.o
+.PHONY : 07_指针/06_指针和函数.cpp.o
+
+07_指针/06_指针和函数.i: 07_指针/06_指针和函数.cpp.i
+.PHONY : 07_指针/06_指针和函数.i
+
+# target to preprocess a source file
+07_指针/06_指针和函数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.i
+.PHONY : 07_指针/06_指针和函数.cpp.i
+
+07_指针/06_指针和函数.s: 07_指针/06_指针和函数.cpp.s
+.PHONY : 07_指针/06_指针和函数.s
+
+# target to generate assembly for a file
+07_指针/06_指针和函数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/06_指针和函数.cpp.s
+.PHONY : 07_指针/06_指针和函数.cpp.s
+
+07_指针/07_指针数组和函数案例.o: 07_指针/07_指针数组和函数案例.cpp.o
+.PHONY : 07_指针/07_指针数组和函数案例.o
+
+# target to build an object file
+07_指针/07_指针数组和函数案例.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.o
+.PHONY : 07_指针/07_指针数组和函数案例.cpp.o
+
+07_指针/07_指针数组和函数案例.i: 07_指针/07_指针数组和函数案例.cpp.i
+.PHONY : 07_指针/07_指针数组和函数案例.i
+
+# target to preprocess a source file
+07_指针/07_指针数组和函数案例.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.i
+.PHONY : 07_指针/07_指针数组和函数案例.cpp.i
+
+07_指针/07_指针数组和函数案例.s: 07_指针/07_指针数组和函数案例.cpp.s
+.PHONY : 07_指针/07_指针数组和函数案例.s
+
+# target to generate assembly for a file
+07_指针/07_指针数组和函数案例.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/07_指针数组和函数案例.cpp.s
+.PHONY : 07_指针/07_指针数组和函数案例.cpp.s
+
+07_指针/BubbleSort.o: 07_指针/BubbleSort.cpp.o
+.PHONY : 07_指针/BubbleSort.o
+
+# target to build an object file
+07_指针/BubbleSort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.o
+.PHONY : 07_指针/BubbleSort.cpp.o
+
+07_指针/BubbleSort.i: 07_指针/BubbleSort.cpp.i
+.PHONY : 07_指针/BubbleSort.i
+
+# target to preprocess a source file
+07_指针/BubbleSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.i
+.PHONY : 07_指针/BubbleSort.cpp.i
+
+07_指针/BubbleSort.s: 07_指针/BubbleSort.cpp.s
+.PHONY : 07_指针/BubbleSort.s
+
+# target to generate assembly for a file
+07_指针/BubbleSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/pre.dir/build.make CMakeFiles/pre.dir/07_指针/BubbleSort.cpp.s
+.PHONY : 07_指针/BubbleSort.cpp.s
 
 # Help Target
 help:
@@ -210,15 +330,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... pre"
-	@echo "... 06_函数/01_函数的定义.o"
-	@echo "... 06_函数/01_函数的定义.i"
-	@echo "... 06_函数/01_函数的定义.s"
-	@echo "... 06_函数/07_函数的分文件编写.o"
-	@echo "... 06_函数/07_函数的分文件编写.i"
-	@echo "... 06_函数/07_函数的分文件编写.s"
-	@echo "... 06_函数/swap.o"
-	@echo "... 06_函数/swap.i"
-	@echo "... 06_函数/swap.s"
+	@echo "... 07_指针/01_指针的定义和使用.o"
+	@echo "... 07_指针/01_指针的定义和使用.i"
+	@echo "... 07_指针/01_指针的定义和使用.s"
+	@echo "... 07_指针/02_指针所占内存空间.o"
+	@echo "... 07_指针/02_指针所占内存空间.i"
+	@echo "... 07_指针/02_指针所占内存空间.s"
+	@echo "... 07_指针/03_空指针和野指针.o"
+	@echo "... 07_指针/03_空指针和野指针.i"
+	@echo "... 07_指针/03_空指针和野指针.s"
+	@echo "... 07_指针/04_const修饰指针.o"
+	@echo "... 07_指针/04_const修饰指针.i"
+	@echo "... 07_指针/04_const修饰指针.s"
+	@echo "... 07_指针/05_指针和数组.o"
+	@echo "... 07_指针/05_指针和数组.i"
+	@echo "... 07_指针/05_指针和数组.s"
+	@echo "... 07_指针/06_指针和函数.o"
+	@echo "... 07_指针/06_指针和函数.i"
+	@echo "... 07_指针/06_指针和函数.s"
+	@echo "... 07_指针/07_指针数组和函数案例.o"
+	@echo "... 07_指针/07_指针数组和函数案例.i"
+	@echo "... 07_指针/07_指针数组和函数案例.s"
+	@echo "... 07_指针/BubbleSort.o"
+	@echo "... 07_指针/BubbleSort.i"
+	@echo "... 07_指针/BubbleSort.s"
 .PHONY : help
 
 
